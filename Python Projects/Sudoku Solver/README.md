@@ -1,5 +1,6 @@
-Sudoku solver
-Sudoku solver using backtracking
+#Sudoku solver
+*Sudoku solver using backtracking*
+*Developed by Kylie Ying* 
 
 Basically in sudoku, we want to be able to solve a sudoku puzzle given an input like this, which represents a sudoku board:
 
@@ -23,4 +24,7 @@ would represent a board like this:
 | 6         | ...
  -----------
  ...
+ 
 Now, our goal is to solve our sudoku puzzle using Python! :D
+
+Source: https://github.com/kying18/sudoku/blob/main/sudoku.py
