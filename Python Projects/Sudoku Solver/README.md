@@ -1,4 +1,4 @@
-#Sudoku solver
+# Sudoku solver
 *Sudoku solver using backtracking*
 *Developed by Kylie Ying* 
 
