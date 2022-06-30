@@ -1,4 +1,4 @@
-# Minesweeper
+🕹️ # Minesweeper
 ### developed by Kylie Ying - https://github.com/kying18/minesweeper
 
 This is a Python implementation of 2-D Minesweeper!
