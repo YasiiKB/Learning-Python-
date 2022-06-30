@@ -1,4 +1,4 @@
-# minesweeper - developed by Kylie Ying
+# minesweeper - developed by Kylie Ying - https://github.com/kying18/minesweeper
 
 This is a Python implementation of 2-D Minesweeper!
 
@@ -21,7 +21,3 @@ You can continue digging until either you hit a bomb (which is game over) or you
 This repo contains two files:
 - minesweeper.py: implementation of minesweeper
 - minesweeper_empty.py: empty code template for you to start somewhere :)
-
-
-
-Github: https://www.github.com/kying18 
