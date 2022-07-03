@@ -6,7 +6,7 @@ Using Python to adjust brightness and contrast, add blur, and detect edges!
 ▶️ YouTube tutorial: *https://youtu.be/4ifdUQmZqhM* <br/>
 📩 This code was downloaded from *https://github.com/kying18/pyphotoshop*
 
-⚠️ You will need to ```pip install -r requirements.txt``` (or use ```pip3``` if you are getting a module not found error). <br/>
+⚠️ You will need to install Numpy by running ```pip install numpy``` first. <br/>
 ⚠️ Update the pip manually if needed, with ``` python -m pip install --upgrade pip```
 
 ### In the folder, you will find these files:
