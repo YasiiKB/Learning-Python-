@@ -13,4 +13,8 @@ Using Python to adjust brightness and contrast, add blur, and detect edges!
 
 ```image.py```: contains the Image class that will read and write the images using the PNG Writer and Reader<br/>
 ```png.py```: pure Python PNG Reader and Writer classes from Johann C. Rocholl<br/>
-```transform.py```: implemented image filter functions<br/>
+```transform_my.py```: implemented image filter functions<br/>
+```transform_winp.py```: implemented image filters and getting user's input (I created this code.)
+
+#### ▶️ Understanding more about Kernel and Sobel Operator:<br/>
+*https://www.youtube.com/watch?v=C_zFhWdM4ic&list=PLzH6n4zXuckoRdljSlM2k35BufTYXNNeF&index=2*
