@@ -27,3 +27,7 @@ Bulk file renamer </br>
 Weather Program </br>
 Code a Discord Bot with Python - Host for Free in the Cloud </br>
 Space invaders game </br>
+
+## ▶ Tutorials 
+*12 Beginner Python Projects - Kylie Ying* https://www.youtube.com/watch?v=8ext9G7xspg&t=1465s&ab_channel=freeCodeCamp.org </br>
+*Six Quick Python Projects - Code With Tomi* https://www.youtube.com/watch?v=SqvVm3QiQVk&t=2531s&ab_channel=freeCodeCamp.org
