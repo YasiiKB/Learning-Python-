@@ -31,4 +31,5 @@ Calculator (Using Regular Expressions) *[my own code]* </br>
 
 ## ▶ Tutorials 
 *12 Beginner Python Projects - Kylie Ying* https://www.youtube.com/watch?v=8ext9G7xspg&t=1465s&ab_channel=freeCodeCamp.org </br>
-*Six Quick Python Projects - Code With Tomi* https://www.youtube.com/watch?v=SqvVm3QiQVk&t=2531s&ab_channel=freeCodeCamp.org
+*Six Quick Python Projects - Code With Tomi* https://www.youtube.com/watch?v=SqvVm3QiQVk&t=2531s&ab_channel=freeCodeCamp.org </br>
+*Learn Python by Building Five Games* https://www.youtube.com/watch?v=XGf2GcyHPhc&t=78s&ab_channel=freeCodeCamp.org
