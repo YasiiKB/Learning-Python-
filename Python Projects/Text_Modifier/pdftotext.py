@@ -3,7 +3,7 @@ import PyPDF2
 
 while True:
     # creating a pdf file object, opening it in binary mode (rb)
-    pdfFileObj = open('coursedescription.pdf', 'rb') #replace this with your file
+    pdfFileObj = open('yourfile.pdf', 'rb') #replace this with your file
         
     # creating a pdf reader object 
     pdfReader = PyPDF2.PdfFileReader(pdfFileObj) 
@@ -29,7 +29,7 @@ while True:
     print ('Your File is ready!')
 
     # Saving the final file
-    output = 'C:/Users/Asus/Desktop/Text Editor with Python/'+'page{}.txt'.format(page_num + 1)
+    output = 'location/'+'page{}.txt'.format(page_num + 1) #replace 'location' with where you want to save the file
     f = open(output, 'w', encoding='utf-8') # encoding to avoid errors
     f.write(resultpage)
     f.close()
