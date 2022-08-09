@@ -8,3 +8,6 @@
 ## Minimax Algorithem Explained 
 https://www.youtube.com/watch?v=y7AKtWGOPAE&ab_channel=KeithGalli </br>
 📃 See the png file. 
+
+## Alpha-beta Pruning Explained 
+https://youtu.be/l-hh51ncgDI
