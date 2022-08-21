@@ -8,7 +8,7 @@ from PIL import Image, ImageTk
 import random 
 from pygame import mixer
 
-# location of the files - the directory in which these files are
+# location of the files - type in the directory in which these files are
 location = ' '.replace('\\','/')
 
 # Window
