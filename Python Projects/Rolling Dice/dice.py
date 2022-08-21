@@ -8,8 +8,8 @@ from PIL import Image, ImageTk
 import random 
 from pygame import mixer
 
-# location of the files - Needs to be changed on different computers
-location = 'E:/Computer stuff - BUp/Python Projects/pyprojects/Rolling Dice/'
+# location of the files - the directory in which these files are
+location = ' '.replace('\\','/')
 
 # Window
 background_color = '#C793C3' # won't work with RGB
