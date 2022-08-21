@@ -1,4 +1,3 @@
-from pickle import TRUE
 import numpy as np
 import pygame
 from pygame import mixer
@@ -170,7 +169,7 @@ def minimax(board, depth, alpha, beta, maximizingPlayer):    # depth is how far 
             row = get_next_open_row(board, col)
             b_copy = board.copy()
             drop_piece(b_copy,row, col,PLAYER_PIECE)
-            new_score = minimax(b_copy, depth-1, alpha, beta,TRUE)[1] #TRUE because we're minimizing player
+            new_score = minimax(b_copy, depth-1, alpha, beta,True)[1] #True because we're minimizing player
             if new_score < value:
                 value = new_score
                 column = col 
