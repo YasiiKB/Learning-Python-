@@ -21,11 +21,9 @@ Pong </br>
 Snake </br>
 Connect Four </br>
 Tetris </br>
-Online Multiplayer Game </br>
 Web Scraping Program </br>
 Bulk file renamer </br>
 Weather Program </br>
-Code a Discord Bot with Python - Host for Free in the Cloud </br>
 Space invaders game </br>
 Calculator (Using Regular Expressions) *[my own code]* </br>
 Pdf to Text Converter </br>
