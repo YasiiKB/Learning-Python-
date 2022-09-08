@@ -22,8 +22,7 @@ top_left_y = s_height - play_height
 
 
 # SOUND EFFECTS
-#file_location = ('E:\Computer stuff - BUp\Python Projects\pyprojects\Tetris').replace('\\','/')
-file_location = ('G:\Tetris').replace('\\','/')
+file_location = ('    ').replace('\\','/')   #type in the location of the folder 
 start = pygame.mixer.Sound(file_location + '/start.wav')
 convertsound = pygame.mixer.Sound(file_location + '/convert.wav')
 clearrow= pygame.mixer.Sound(file_location +'/clearrow.wav')
