@@ -276,14 +276,14 @@ def draw_next_shape(shape, surface):
 def update_score (nscore):
     score= max_score()
     
-    with open ('score.txt', 'w') as f:
+    with open (file_location + '/score.txt', 'w') as f:
         if int(score) > nscore:
             f.write(str(score))
         else: 
             f.write(str(nscore))
 
 def max_score():
-    with open ('score.txt', 'r') as f:  # don't forget to write something in the file, otherwise there'll be no lines [0]
+    with open (file_location + '/score.txt', 'r') as f:  # don't forget to write something in the file, otherwise there'll be no lines [0]
         lines = f.readlines()
         score = lines [0].strip()
     return score
