@@ -1,7 +1,3 @@
-'''
-pip install moviepy & pytube
-Source: https://github.com/Maclinz/yt_downloader/blob/master/download.py
-'''
 from tkinter import * #import everything
 from tkinter import filedialog
 import tkinter.messagebox
@@ -43,7 +39,7 @@ canvas  = Canvas(screen, width=500, height=500)
 canvas.pack()
 
 #YouTube Logo
-logo_img = PhotoImage(file='E:/Computer stuff - BUp Sep 2022/Python Projects/pyprojects/YouTube Downloader/yt.png')
+logo_img = PhotoImage(file='E:/yt.png')
 #resize the image
 logo_img = logo_img.subsample(2,2)
 canvas.create_image(250, 80, image =logo_img) #x and y position on the screen
